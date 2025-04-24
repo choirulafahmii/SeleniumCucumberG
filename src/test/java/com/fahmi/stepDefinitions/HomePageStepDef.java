@@ -1,6 +1,7 @@
-package com.Fahmi.StepDefi;
+package com.fahmi.stepDefinitions;
 
-import Page.HomePage;
+import com.fahmi.BaseTest;
+import com.fahmi.page.HomePage;
 import io.cucumber.java.en.Then;
 
 public class HomePageStepDef extends BaseTest {

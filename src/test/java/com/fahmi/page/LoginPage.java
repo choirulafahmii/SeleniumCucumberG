@@ -1,4 +1,4 @@
-package Page;
+package com.fahmi.page;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
