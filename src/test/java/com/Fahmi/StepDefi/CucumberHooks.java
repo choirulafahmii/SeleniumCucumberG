@@ -6,7 +6,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 import static java.sql.DriverManager.getDriver;
 
-public class CucumberHooks extends BaseTest {
+public class CucumberHooks extends BaseTe {
     @Before
     public void beforeTest(){
         getDriver();

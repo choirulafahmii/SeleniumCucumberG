@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b69d3f11-3394-4465-97b7-d0ae111aa601" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Page/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Page/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Fahmi/StepDefi/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Fahmi/StepDefi/CucumberHooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Fahmi/StepDefi/HomePageStepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Fahmi/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Fahmi/CucumberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CucumberTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Fahmi/StepDefi/CucumberHooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Fahmi/StepDefi/CucumberHooks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/Fahmi/StepDefi/LoginStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Fahmi/StepDefi/LoginStepDef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/login2.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/login2.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

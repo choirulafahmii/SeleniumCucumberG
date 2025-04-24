@@ -22,12 +22,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class LoginStepDef extends BaseTest {
 
-    private static final Logger log = LoggerFactory.getLogger(LoginStepDef.class);
     LoginPage loginPage;
-
-    WebDriver driver;
-
-
 
     @Given("user is on login page")
     public void userIsOnLoginPage() {
@@ -53,6 +48,6 @@ public class LoginStepDef extends BaseTest {
 
     @Then("user see error message {string}")
     public void userSeeErrorMessage(String errorMessage) {
-        assertTrue(driver.getPageSource().contains(errorMessage));
+        loginPage.validateErrorAppear(errorMessage);
     }
 }
