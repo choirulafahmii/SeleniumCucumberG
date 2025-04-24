@@ -25,7 +25,7 @@ dependencies {
 }
 
 test {
-    useJUnitPlatform() // Activates JUnit 5 platform
+    useJUnit() // Use JUnit 4
 }
 
 configurations {

@@ -1,12 +1,12 @@
-package com.Fahmi.StepDefi;
+package com.fahmi.stepDefinitions;
 
+import com.fahmi.BaseTest;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
-import io.github.bonigarcia.wdm.WebDriverManager;
 
 import static java.sql.DriverManager.getDriver;
 
-public class CucumberHooks extends BaseTe {
+public class CucumberHooks extends BaseTest {
     @Before
     public void beforeTest(){
         getDriver();
