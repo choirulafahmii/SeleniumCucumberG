@@ -35,10 +35,3 @@ jobs:
       with:
         name: cucumber-reports
         path: reports
-
-    - name: Archive test results
-      uses: actions/upload-artifact@v4
-      if: always()
-      with:
-        name: cucumber-reports
-        path: reports
