@@ -8,8 +8,8 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         glue = {"com.fahmi.stepDefinitions"}, //tempat class file step definition
         features = {"src/test/resources/features"}, //letak gherkin berada
-        plugin = {"pretty"} //untuk print hasil
-)
+        plugin = {"pretty","html:reports/cucumber.html", "json:reports/cucumber.json"}) //untuk print hasil
+
     public class CucumberTest {
 
 }
