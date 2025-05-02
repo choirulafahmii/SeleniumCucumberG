@@ -45,7 +45,7 @@ tasks.register('cucumber', JavaExec) {
     args = [
             '--plugin', 'pretty',
             '--plugin', 'html:reports/test-report.html',
-            '--glue', 'com.Fahmi',
+            '--glue', 'com.fahmi',
             '--tags', tags,
             'src/test/resources'
     ]
