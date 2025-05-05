@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b69d3f11-3394-4465-97b7-d0ae111aa601" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/reports/cucumber.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/cucumber.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JSONSchemaData/create_user_normal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JSONSchemaData/get_list_user_normal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fahmi/page/ApiPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fahmi/stepDefinitions/ApiStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/helper/Endpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/helper/Models.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/helper/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/api.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/fahmi/CucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fahmi/CucumberTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +83,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/choirul.fahmi/IdeaProjects/SeleniumCucumberG/src/test/java/com/Fahmi/StepDefi"
+    "last_opened_file_path": "C:/Users/choirul.fahmi/IdeaProjects/PR17Module19/src/test/java/Pr17Module19.java"
   }
 }]]></component>
   <component name="RecentsManager">
